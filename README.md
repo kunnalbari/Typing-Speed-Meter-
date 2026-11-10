@@ -1,54 +1,53 @@
-# 🚀 Typing Speed Meter ⌨️
-*Measure your typing speed and accuracy with ease*
+🚀 Typing Speed Meter
 
----
+A free, lightweight and responsive typing speed testing tool built using HTML, CSS and JavaScript.
 
-## 📖 Description
-The **Typing Speed Meter** is a simple static website that helps you check your typing speed and accuracy.  
-It is built using **HTML, CSS, and JavaScript**, and has a clean and user-friendly interface.  
+🌐 Live Demo
 
-You can start the typing test with just a button click, and at the end, it will show your speed and accuracy.  
-It works on all devices and browsers.  
+"Try Typing Speed Meter" (https://bit.ly/typemeter)
 
----
+✨ Features
 
-## ✨ Features
-- ⏱ Timed typing test  
-- 📊 Real-time feedback  
-- ✅ Accurate speed & accuracy results  
-- 🖥 Simple and user-friendly interface  
-- 📱 Responsive (works on mobile & desktop)  
-- 🌐 Works on all major browsers  
+- Timed typing tests
+- Real-time typing feedback
+- Words Per Minute (WPM) calculation
+- Typing accuracy measurement
+- Responsive design for desktop and mobile
+- Simple and beginner-friendly interface
 
----
+🛠️ Built With
 
-## 🛠 Tech Stack
-- **HTML**  
-- **CSS**  
-- **JavaScript**  
+- HTML5
+- CSS3
+- JavaScript
 
----
+📸 Project Overview
 
-## 📂 Project Files
-- `index.html` → Main HTML file  
-- `style.css` → Styling for the website  
-- `script.js` → JavaScript logic for the test  
+Typing Speed Meter helps users practise typing and measure their speed and accuracy through an interactive browser-based test.
 
----
+🚀 Getting Started
 
-## ⚙️ How to Run
-1. Download or clone the project  
-2. Open `index.html` in your browser  
-3. Start the typing test 🚀  
+1. Clone this repository:
+   "git clone https://github.com/kunnalbari/Typing-Speed-Meter-.git"
+2. Open the project folder.
+3. Run "index.html" in your browser.
+4. Start practising!
 
----
+📁 Project Structure
 
-## 🧪 Testing
-1. Click **Start Test**  
-2. Type the text shown on the screen  
-3. Click **Submit** to see your results  
+- "index.html" – Main webpage
+- "style.css" – Website styling
+- "script.js" – Typing test functionality
+- "LICENSE" – MIT Licence
 
----
+🤝 Contributions
 
-## 👤 Author
-Project created by **Kunal** 
+Suggestions, bug reports and meaningful improvements are welcome. Feel free to open an issue or submit a pull request.
+
+👨‍💻 Author
+
+Kunal Bari
+
+📄 Licence
+
+This project is licensed under the MIT Licence.
